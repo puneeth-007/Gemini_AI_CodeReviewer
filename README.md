@@ -45,16 +45,9 @@ Welcome to the AI Code Reviewer project! This tool leverages the power of AI to 
     - Optionally, enter a specific query for more tailored feedback.
     - Click the 'Review Code' button to get the bug report and fixed code suggestions.
 
-## Contributing
-
-We welcome contributions! Please fork the repository and submit a pull request with your changes. Make sure to follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
+- Under guidance of [Kanav Bansal]([https://www.streamlit.io/](https://github.com/bansalkanav/bansalkanav)
 - Inspired by the [Streamlit](https://www.streamlit.io/) framework.
 - Powered by [Google Generative AI](https://cloud.google.com/generative-ai).
 
