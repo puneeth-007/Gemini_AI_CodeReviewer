@@ -47,7 +47,7 @@ Welcome to the AI Code Reviewer project! This tool leverages the power of AI to 
 
 ## Acknowledgments
 
-- Under guidance of [Kanav Bansal]([https://www.streamlit.io/](https://github.com/bansalkanav/bansalkanav)
+- Under guidance of [Kanav Bansal](https://github.com/bansalkanav/bansalkanav)
 - Inspired by the [Streamlit](https://www.streamlit.io/) framework.
 - Powered by [Google Generative AI](https://cloud.google.com/generative-ai).
 
